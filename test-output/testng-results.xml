@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-25T17:58:41 EEST" name="Default suite" finished-at="2023-07-25T17:59:04 EEST" duration-ms="23347">
+  <suite started-at="2023-07-28T17:51:50 EEST" name="Default suite" finished-at="2023-07-28T17:52:07 EEST" duration-ms="16199">
     <groups>
     </groups>
-    <test started-at="2023-07-25T17:58:41 EEST" name="Default test" finished-at="2023-07-25T17:59:04 EEST" duration-ms="23347">
-      <class name="curs16.JSAlertExample">
-        <test-method is-config="true" signature="setup()[pri:0, instance:curs16.JSAlertExample@1de76cc7]" started-at="2023-07-25T17:58:41 EEST" name="setup" finished-at="2023-07-25T17:58:53 EEST" duration-ms="11842" status="PASS">
+    <test started-at="2023-07-28T17:51:50 EEST" name="Default test" finished-at="2023-07-28T17:52:07 EEST" duration-ms="16199">
+      <class name="curs17.IsEnabledExample">
+        <test-method is-config="true" signature="setup()[pri:0, instance:curs17.IsEnabledExample@1de76cc7]" started-at="2023-07-28T17:51:50 EEST" name="setup" finished-at="2023-07-28T17:52:01 EEST" duration-ms="10714" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="simpleJsAlert()[pri:0, instance:curs16.JSAlertExample@1de76cc7]" started-at="2023-07-25T17:58:53 EEST" name="simpleJsAlert" finished-at="2023-07-25T17:59:00 EEST" duration-ms="7290" status="PASS">
+        <test-method signature="isEnabledTest()[pri:0, instance:curs17.IsEnabledExample@1de76cc7]" started-at="2023-07-28T17:52:01 EEST" name="isEnabledTest" finished-at="2023-07-28T17:52:02 EEST" duration-ms="1268" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- simpleJsAlert -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:curs16.JSAlertExample@1de76cc7]" started-at="2023-07-25T17:59:00 EEST" name="teardown" finished-at="2023-07-25T17:59:04 EEST" duration-ms="4182" status="PASS">
+        </test-method> <!-- isEnabledTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:curs17.IsEnabledExample@1de76cc7]" started-at="2023-07-28T17:52:02 EEST" name="teardown" finished-at="2023-07-28T17:52:07 EEST" duration-ms="4183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- curs16.JSAlertExample -->
+      </class> <!-- curs17.IsEnabledExample -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
